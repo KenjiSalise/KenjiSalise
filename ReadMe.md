@@ -1,4 +1,4 @@
-![banner.png][]
+![banner.png](banner.png)
 
 # 💫 About Me:
 🔭 I’m currently working on: MySQL databases and IIS website configuration.<br>👯 I’m looking to collaborate on  MySQL databases and IIS website configuration.<br>🤝 I’m looking for help with Node.js frameworks and React.<br>🌱 I’m currently learning Python, C#, JavaScript, and Typescript.<br>💬 Ask me about sorting Algorithms and games<br>⚡ Fun fact: I love games.
